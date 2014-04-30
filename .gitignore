@@ -1,0 +1,5 @@
+dev/node_modules
+dev/.*
+openshift/node_modules
+openshift/app/bower_components/*
+openshift/.*
